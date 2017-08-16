@@ -9,7 +9,7 @@ python版本为3.5，windows平台
 
 
 ## [getTickets_old.py](https://github.com/wangy1b/MyPythons/getTickets_old.py)&[getTickets_new.py](https://github.com/wangy1b/MyPythons/getTickets_new.py)
-根据实验楼的教程，学习查询1230实时余票信息
+根据实验楼的教程，学习查询12306实时余票信息
 
 ## [getChapter.py](https://github.com/wangy1b/MyPythons/getChapter.py)
 根据网上资料抓取笔趣网一篇小说
